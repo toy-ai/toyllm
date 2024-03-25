@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Toy LLM","text":"<p>ToyLLM is a simple language model that can be used to generate text. It is based on the GPT-2 model.</p>"},{"location":"changelog/","title":"Changelog","text":""},{"location":"changelog/#unreleased","title":"[Unreleased]","text":""}]}
